@@ -1,3 +1,3 @@
-# todo-ai-example
+# cypress-v15-test
 
-> Examples of web development and testing using AI tools
+> Trying the new experimental studio in Cypress v15 release

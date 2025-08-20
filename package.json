@@ -1,7 +1,7 @@
 {
-  "name": "todo-ai-example",
+  "name": "cypress-v15-test",
   "version": "1.0.0",
-  "description": "Examples of web development and testing using AI tools",
+  "description": "Trying the new experimental studio in Cypress v15 release",
   "main": "index.js",
   "scripts": {
     "start": "json-server --static app --watch app/data.json --middlewares ./node_modules/json-server-reset",
